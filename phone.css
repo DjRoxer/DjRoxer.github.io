@@ -1,5 +1,5 @@
 /* make all buttons 20 by 20 pixels with white text and green background and a 10 pixel margin */
-button.Num {  height: 20px; background: green; color: white;  }
+button.Num {  height: 50px; width: 50px; background: lightgray; color: black;  }
 
 /* make all tags with the "cool" class name have blue text */
 .cool { color: blue; }
