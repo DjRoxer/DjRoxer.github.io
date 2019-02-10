@@ -1,5 +1,12 @@
 /* make all buttons 20 by 20 pixels with white text and green background and a 10 pixel margin */
-button.Num {  height: 50px; width: 50px; background: lightgray; color: black;  }
+button.Num {   height: 40px; width: 60px; background: lightgray; color: black;  border: none; margin: 3px;}
+#Tab {
+	border: none; background: darkgray; padding: 3px; padding-bottom: 0px;
+}
+button.Tab{ border-radius: 2px; border: none; 
+
+}
+
 
 /* make all tags with the "cool" class name have blue text */
 .cool { color: blue; }
